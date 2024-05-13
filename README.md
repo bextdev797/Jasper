@@ -16,4 +16,4 @@ Download AIX:
 <a href="https://github.com/bextdev797/Jasper/raw/main/out/com.bextdev.jasper.aix">Jasper.aix</a>
 
 Download AIA:
-<a href="https://github.com/bextdev797/Jasper/raw/main/assets/JasperV1.aia'>Jasper.aia</a>
+<a href="https://github.com/bextdev797/Jasper/raw/main/assets/JasperV1.aia">JasperV1.aia</a>
